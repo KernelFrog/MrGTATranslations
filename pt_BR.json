@@ -158,7 +158,7 @@
 	"DESCENDING": "Decrescente",
 	"DESYNC_DETECTED": "Dessincronização de Sessão detectada.",
 	"DESYNC_DETECTED_REJOIN": "Dessincronização de Sessão detectada, tentando reconectar...",
-	"DESYNC_KICK": "Impedir expulsão por Dessincronização",
+	"DESYNC_KICK": "Expulsão por Dessincronização",
 	"DESYNC_PROTECTION": "Proteção de Dessincronização",
 	"DETECTION_TRIGGERED": "{} ativou uma detecção: {}",
 	"DIRECTION": "Direção",
@@ -1367,5 +1367,11 @@
 	"AGGRESSIVE": "Aggressive",
 	"HIDE_SPOOFING_WHEN_HOST": "Hide Spoofing When Host",
 	"PRESETS": "Presets",
-	"FILTER_MULTIPLEXED_SESSIONS": "Filter Multiplexed Sessions"
+	"FILTER_MULTIPLEXED_SESSIONS": "Filter Multiplexed Sessions",
+	"PLAYER_LEFT_REASON": "{} ({} / {}) left due to '{}'",
+	"CXN_TIMEOUT": "Connection Timeout",
+	"CANNOT_USE_THIS_ON_YOURSELF": "You cannot use this on yourself",
+	"CANNOT_USE_THIS_ON_HOST": "You cannot use this on the host",
+	"CANNOT_USE_DESYNC_ON_PLAYER": "Desync-kicking this player would most likely backfire",
+	"DONT_SPAM_THIS_OR_BACKFIRE": "Don't spam this or it will backfire"
 }
