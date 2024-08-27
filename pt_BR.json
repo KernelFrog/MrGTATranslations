@@ -1372,6 +1372,6 @@
 	"CXN_TIMEOUT": "Connection Timeout",
 	"CANNOT_USE_THIS_ON_YOURSELF": "You cannot use this on yourself",
 	"CANNOT_USE_THIS_ON_HOST": "You cannot use this on the host",
-	"CANNOT_USE_DESYNC_ON_PLAYER": "Desync-kicking this player would most likely backfire",
+	"CANNOT_USE_DESYNC_ON_THIS_PLAYER": "Desync-kicking this player would most likely backfire",
 	"DONT_SPAM_THIS_OR_BACKFIRE": "Don't spam this or it will backfire"
 }

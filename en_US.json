@@ -103,7 +103,7 @@
 	"CAMHEDZ": "Camhedz",
 	"CANCEL": "Cancel",
 	"CANCELABLE": "Cancelable",
-	"CANNOT_USE_DESYNC_ON_PLAYER": "Desync-kicking this player would most likely backfire",
+	"CANNOT_USE_DESYNC_ON_THIS_PLAYER": "Desync-kicking this player would most likely backfire",
 	"CANNOT_USE_THIS_ON_HOST": "You cannot use this on the host",
 	"CANNOT_USE_THIS_ON_YOURSELF": "You cannot use this on yourself",
 	"CAPTURE": "Capture",

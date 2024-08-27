@@ -102,7 +102,7 @@
 	"CAMHEDZ": "Camhedz",
 	"CANCEL": "Abbrechen",
 	"CANCELABLE": "Abbrechbar",
-	"CANNOT_USE_DESYNC_ON_PLAYER": "Ein Desync-Kick gegen diesen Spieler würde höchstwahrscheinlich nach hinten losgehen",
+	"CANNOT_USE_DESYNC_ON_THIS_PLAYER": "Ein Desync-Kick gegen diesen Spieler würde höchstwahrscheinlich nach hinten losgehen",
 	"CANNOT_USE_THIS_ON_HOST": "Du kannst dies nicht am Host benutzen",
 	"CANNOT_USE_THIS_ON_YOURSELF": "Du kannst dies nicht an dir selbst benutzen",
 	"CAPTURE": "Capture",
